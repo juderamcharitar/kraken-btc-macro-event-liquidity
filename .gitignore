@@ -1,0 +1,12 @@
+.venv/
+data/
+audits/
+research/
+__pycache__/
+*.pyc
+*.zip
+*.log
+.env
+.env.*
+*.pem
+*.key
