@@ -1,0 +1,13 @@
+case,case_role,control,metric,event_value,control_value,event_minus_control,event_div_control,comparison_valid,direction_of_extremeness,interpretation
+nov05,exploratory_event,nov09_control,release_mean_spread_bps,0.012561748879526538,0.013390725985684077,-0.0008289771061575392,0.9380931917325623,True,high,single-day descriptive contrast; NOT a p-value or causal estimate
+nov05,exploratory_event,nov09_control,release_median_total10_btc,1.25449696,3.39893234,-2.14443538,0.36908559350728354,True,low,single-day descriptive contrast; NOT a p-value or causal estimate
+nov05,exploratory_event,nov09_control,release_abs_mid_return_tplus5_bps,0.0,0.0,0.0,,True,high,single-day descriptive contrast; NOT a p-value or causal estimate
+nov05,exploratory_event,nov09_control,pre24_depth_ratio_to_baseline,0.3050218496405411,0.7943868760220162,-0.4893650263814751,0.38397141096788145,True,low,single-day descriptive contrast; NOT a p-value or causal estimate
+nov06,exploratory_event,nov09_control,release_mean_spread_bps,19.119814116698837,0.013390725985684077,19.106423390713154,1427.8399944214889,True,high,single-day descriptive contrast; NOT a p-value or causal estimate
+nov06,exploratory_event,nov09_control,release_median_total10_btc,0.707910365,3.39893234,-2.691021975,0.2082743326982496,True,low,single-day descriptive contrast; NOT a p-value or causal estimate
+nov06,exploratory_event,nov09_control,release_abs_mid_return_tplus5_bps,45.779083575420565,0.0,45.779083575420565,,True,high,single-day descriptive contrast; NOT a p-value or causal estimate
+nov06,exploratory_event,nov09_control,pre24_depth_ratio_to_baseline,0.03581531831903184,0.7943868760220162,-0.7585715577029843,0.04508548592643068,True,low,single-day descriptive contrast; NOT a p-value or causal estimate
+nov10_cpi,prospective_event,nov09_control,release_mean_spread_bps,25.54562985679374,0.013390725985684077,25.53223913080806,1907.710596431021,True,high,single-day descriptive contrast; NOT a p-value or causal estimate
+nov10_cpi,prospective_event,nov09_control,release_median_total10_btc,7.62364103,3.39893234,4.22470869,2.2429516881762934,True,low,single-day descriptive contrast; NOT a p-value or causal estimate
+nov10_cpi,prospective_event,nov09_control,release_abs_mid_return_tplus5_bps,21.723743812841487,0.0,21.723743812841487,,True,high,single-day descriptive contrast; NOT a p-value or causal estimate
+nov10_cpi,prospective_event,nov09_control,pre24_depth_ratio_to_baseline,0.058768928560663,0.7943868760220162,-0.7356179474613532,0.0739802359965401,True,low,single-day descriptive contrast; NOT a p-value or causal estimate
